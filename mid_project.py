@@ -7,7 +7,7 @@ import numpy as np
 import streamlit as st
 html_title = """<h1 style="color:red;text-align:center;">retail_store_sales</h1>"""
 st.markdown(html_title,unsafe_allow_html=True)
-st.image('photo-1604719312566-8912e9227c6a.jpg' )
+st.image('WhatsApp Image 2025-06-11 at 21.30.23_94879f49.jpg' )
 tab1, tab2, tab3, tab4 = st.tabs(["Dataset uncleaned","Dataset cleaned", "Visualizations", "About"])
 columns = [
     "Transaction ID: A unique identifier for each transaction.",
